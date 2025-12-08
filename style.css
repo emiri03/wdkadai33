@@ -6,8 +6,8 @@ h1 {
     background-color: #faa;
 }
 div {
-    background-image: url(  ①_____________________  );
-    background-repeat: ②___________ ;
+    background-image: url(bg-airplane.jpg);
+    background-repeat: no-repeat;
     background-size: ③__________ ;
     height: 100vh; 
 }
